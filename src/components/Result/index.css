@@ -1,0 +1,27 @@
+.pp {
+  font-size: 28px;
+}
+.pp2 {
+  margin: auto;
+  text-align: center !important;
+  font-size: 28px !important;
+}
+.p11 {
+  color: #164687 !important;
+  font-size: 29px !important;
+  padding: 0px;
+  margin: 0px !important;
+}
+.p22 {
+  color: #164687 !important;
+  font-weight: 500;
+}
+.sc3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+  color: #164687 !important;
+  gap: 10px;
+}

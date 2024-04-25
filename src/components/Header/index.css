@@ -1,0 +1,35 @@
+.nv {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+  background-color: #263868;
+  padding: 14px 40px 14px 40px;
+}
+.web-lg {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  color: white;
+  align-items: center;
+}
+.img-logo {
+  width: 40px;
+}
+.web-lg h1 {
+  font-size: 12px;
+  padding: 3px;
+  margin: 0px;
+}
+.web-lg span {
+  font-size: 12px;
+}
+.btn-LogOut {
+  color: #f1f5f9;
+  border: 1px solid #f1f5f9;
+  padding: 6px;
+  width: 70px;
+  cursor: pointer;
+  border-radius: 4px;
+  background-color: #263868;
+}
